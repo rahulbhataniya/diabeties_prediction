@@ -1,0 +1,5 @@
+1 https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-01-573864fcc6b8
+2 https://towardsdatascience.com/machine-learning-workflow-on-diabetes-data-part-02-11262b7f7a5c
+
+3 source code:
+ https://github.com/LahiruTjay/Machine-Learning-With-Python/blob/master/Machine%20Learning%20Workflow%20on%20Diabetes%20Data.ipynb
